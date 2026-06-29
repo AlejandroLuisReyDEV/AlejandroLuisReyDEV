@@ -22,7 +22,7 @@ Desarrollador Web orientado al Frontend con sólida base Full-Stack. Formado en 
 
 * **Stack:** React, Tailwind CSS, Web Storage API (Client-Side)
 * **Puntos clave:** Diseño *Mobile-First* pensado para un uso ágil y sin fricción durante el entrenamiento, optimización de entradas numéricas y visualización clara de métricas de rendimiento.
-* 🔗 💻 [**Código fuente**](https://github.com/AlejandroLuisReyDEV/GymTracker)
+* 🔗 💻 [**Código fuente**](https://github.com/AlejandroLuisReyDEV/gym-tracker)
 
 ---
 
@@ -37,5 +37,5 @@ Desarrollador Web orientado al Frontend con sólida base Full-Stack. Formado en 
 ## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandroluisreydev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=globe&logoColor=white)](https://alejandroluisreydev.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=globe&logoColor=white)](https://alejandroluisreydev.github.io/portfolio-web/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexrey585@gmail.com)
